@@ -15,8 +15,8 @@ class Home extends StatelessWidget {
                   begin: Alignment.topCenter,
                   end: Alignment.bottomCenter,
                   colors: [
-                    Colors.blue,
-                    Color(0xFFE0E0E0), // gris claro
+                    Color.fromARGB(255, 20, 132, 224),
+                    Color.fromARGB(255, 202, 199, 199), 
                   ],
                 ),
               ),
