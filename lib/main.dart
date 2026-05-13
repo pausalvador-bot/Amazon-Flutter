@@ -17,6 +17,7 @@ class MainApp extends StatelessWidget {
         body: Column(
           children: [
             BarraNavegacio(),
+            
           ],
         ),
       ),
